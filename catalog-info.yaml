@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: mattshardman/backstage-test
 spec:
-  type: other
+  type: Component
   lifecycle: unknown
   owner: me
